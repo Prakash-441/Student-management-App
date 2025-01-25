@@ -1,4 +1,5 @@
 Student Management App
+
 A simple Student Management System built with HTML, CSS, and JavaScript, providing a CRUD (Create, Read, Update, Delete) interface to manage student data.
 
 Features
