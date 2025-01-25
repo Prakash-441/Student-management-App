@@ -3,6 +3,7 @@ Student Management App
 A simple Student Management System built with HTML, CSS, and JavaScript, providing a CRUD (Create, Read, Update, Delete) interface to manage student data.
 
 Features
+
 Add Students: Enter student details (Name, Email, Age, GPA, Degree) to add them to the list.
 Edit Students: Modify existing student information with a simple interface.
 Delete Students: Remove a student record with a single click.
@@ -10,6 +11,7 @@ Search Functionality: Search for students by Name, Email, or Degree in real-time
 Responsive Design: Works seamlessly across different screen sizes.
 
 Technologies Used
+
 Frontend:
 HTML
 CSS
